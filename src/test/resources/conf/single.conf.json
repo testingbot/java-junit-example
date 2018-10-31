@@ -1,0 +1,16 @@
+{
+  "server": "hub.testingbot.com",
+  "key": "TESTINGBOT_KEY",
+  "secret": "TESTINGBOT_SECRET",
+
+  "capabilities": {
+    "build": "junit-testingbot",
+    "name": "single_test"
+  },
+
+  "environments": [{
+    "browser": "chrome",
+    "platform": "WIN10",
+    "version": "latest"
+  }]
+}

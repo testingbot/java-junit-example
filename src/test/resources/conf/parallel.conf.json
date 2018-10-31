@@ -1,0 +1,20 @@
+{
+  "server": "hub.testingbot.com",
+  "key": "TESTINGBOT_KEY",
+  "secret": "TESTINGBOT_SECRET",
+
+  "capabilities": {
+    "build": "junit-testingbot",
+    "name": "parallel_test"
+  },
+
+  "environments": [{
+    "browser": "chrome",
+    "platform": "WIN10",
+    "version": "latest"
+  },{
+    "browser": "firefox",
+    "platform": "WIN10",
+    "version": "latest"
+  }]
+}

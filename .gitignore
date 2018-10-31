@@ -1,3 +1,7 @@
+target/
+local.log
+.idea
+*.iml
 # Compiled class file
 *.class
 
