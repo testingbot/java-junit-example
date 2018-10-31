@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/testingbot/java-junit-example.svg?branch=master)](https://travis-ci.org/testingbot/java-junit-example)
+
 ## TestingBot - Java & JUnit
 
 TestingBot provides an online grid of browsers and mobile devices to run Automated tests on via Selenium WebDriver.
