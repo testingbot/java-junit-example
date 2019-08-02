@@ -1,0 +1,17 @@
+{
+  "server": "hub.testingbot.com",
+  "key": "TESTINGBOT_KEY",
+  "secret": "TESTINGBOT_SECRET",
+
+  "capabilities": {
+    "build": "junit-testingbot",
+    "name": "single_test"
+  },
+
+  "environments": [{
+    "app": "tb://f0862ada623e611f530a65f5",
+    "deviceName": "Pixel 2",
+    "version": "7.1",
+    "platformName": "Android"
+  }]
+}
